@@ -1,0 +1,42 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Aspects (1.4.1)
+  - zipzap (8.0.3):
+    - zipzap/c++ (= 8.0.3)
+    - zipzap/objc (= 8.0.3)
+    - zipzap/objc++ (= 8.0.3)
+  - zipzap/c++ (8.0.3)
+  - zipzap/objc (8.0.3)
+  - zipzap/objc++ (8.0.3)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.5.3)
+  - Aspects (~> 1.4.1)
+  - zipzap
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  Aspects: 7595ba96a6727a58ebcbfc954497fc5d2fdde546
+  zipzap: 888667fa52eb1799a32fa3ef8e77001356e796e4
+
+COCOAPODS: 0.37.1
